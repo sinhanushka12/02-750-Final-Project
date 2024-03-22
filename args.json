@@ -104,11 +104,11 @@
     "reaction_mode": "reac_diff",
     "reaction_solvent": false,
     "reproducibility": {
-        "command_line": "python /Users/sinhanushka_/opt/anaconda3/envs/chemprop/bin/chemprop_train --data_path /Users/sinhanushka_/Documents/GitHub/02-750-Final-Project/drop_cols_TYK2.csv --dataset_type regression --save_dir /Users/sinhanushka_/Documents/GitHub/02-750-Final-Project",
-        "time": "Tue Mar 19 16:43:20 2024"
+        "command_line": "python /Users/sinhanushka_/opt/anaconda3/envs/chemprop/lib/python3.8/site-packages/ipykernel_launcher.py -f /Users/sinhanushka_/Library/Jupyter/runtime/kernel-891573e2-d4fd-452a-8495-3dfccc5e8b92.json",
+        "time": "Fri Mar 22 10:27:19 2024"
     },
     "resume_experiment": false,
-    "save_dir": "/Users/sinhanushka_/Documents/GitHub/02-750-Final-Project",
+    "save_dir": "/Users/sinhanushka_/Documents/GitHub/02-750-Final-Project/",
     "save_preds": false,
     "save_smiles_splits": false,
     "seed": 0,
