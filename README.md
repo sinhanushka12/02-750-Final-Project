@@ -1,6 +1,6 @@
-Final Project for the course Automation of Scientific Research 
+# **Final Project for the course Automation of Scientific Research**
 
-Performance Evaluation
+## **Performance Evaluation**
 
 **GP model:**
 
