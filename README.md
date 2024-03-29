@@ -2,7 +2,7 @@ Final Project for the course Automation of Scientific Research
 
 Performance Evaluation
 GP model:
-*Run across various batch sizes (1, 25, 50), across 3 seeds*
+**Run across various batch sizes (1, 25, 50), across 3 seeds**
     1. Random Sampling:
         mean: 0.8320423537582441
         standard deviation: 0.01794566021989391
@@ -11,7 +11,7 @@ GP model:
     4. UCB (combination)
 
 Chemprop model:
-*Run across various batch sizes (1, 25, 50), across 3 seeds*
+**Run across various batch sizes (1, 25, 50), across 3 seeds**
     1. Random sampling
     2. Uncertainty sampling (Monte Carlo Dropout)
     3. QBC/Ensemble (if feasible)
