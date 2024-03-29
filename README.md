@@ -5,11 +5,8 @@ GP model:
 **Run across various batch sizes (1, 25, 50), across 3 seeds**
 
     1. Random Sampling:
-    
         mean: 0.8320423537582441
-        
         standard deviation: 0.01794566021989391
-        
     2. Max Variance (exploration)
     3. Max Mean (exploitation)
     4. UCB (combination)
