@@ -14,3 +14,12 @@ Ensemble test rmse = 0.533532
 	Seed 0 ==> test rmse = 0.533532
 Overall test rmse = 0.533532 +/- 0.000000
 Elapsed time = 0:13:49
+Fold 0
+Fold 0
+Model 0 best validation rmse = 0.850918 on epoch 24
+Model 0 test rmse = 0.692876
+Ensemble test rmse = 0.692876
+1-fold cross validation
+	Seed 0 ==> test rmse = 0.692876
+Overall test rmse = 0.692876 +/- 0.000000
+Elapsed time = 0:01:21
