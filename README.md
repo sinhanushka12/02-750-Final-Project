@@ -12,14 +12,19 @@ Run across various batch sizes (1, 25, 50), across 3 seeds
     2. Max Variance (exploration)
     3. Max Mean (exploitation)
     4. UCB (combination)
+        Check if beta is 0 
+    5. Plot figures
 
 **Chemprop model:**
 
 Run across various batch sizes (1, 25, 50), across 3 seeds
 
     1. Random sampling
+        Run random
     2. Uncertainty sampling (Monte Carlo Dropout)
-    3. QBC/Ensemble (if feasible)
+        Run Monte Carlo
+    3. Plot figures
+    4. QBC/Ensemble (if feasible)
 
 
 **Possible additions:**
