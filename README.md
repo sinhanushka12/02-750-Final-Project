@@ -2,6 +2,9 @@
 
 ## **Performance Evaluation**
 
+First Plot:
+Schematic of GP Models and Chemprop
+
 **GP model:**
 
 Run across various batch sizes (1, 25, 50), across 3 seeds
@@ -12,19 +15,24 @@ Run across various batch sizes (1, 25, 50), across 3 seeds
     2. Max Variance (exploration)
     3. Max Mean (exploitation)
     4. UCB (combination)
-        Check if beta is 0 
-    5. Plot figures
+
+Plots
+    1. MAE vs. Instances 
+    2. R2 vs. Instances
+    3. Barplots of Accuracy at the end of simulations
 
 **Chemprop model:**
 
 Run across various batch sizes (1, 25, 50), across 3 seeds
 
     1. Random sampling
-        Run random
     2. Uncertainty sampling (Monte Carlo Dropout)
-        Run Monte Carlo
-    3. Plot figures
-    4. QBC/Ensemble (if feasible)
+    3. QBC/Ensemble (if feasible)
+
+Plots
+    1. Accuracy vs. Instances
+    2. R2 vs. Instances
+    3. Barplots of Accuracy at the end of simulations
 
 
 **Possible additions:**
