@@ -9,6 +9,11 @@ The project intends to use active learning to balance exploration, which seeks n
 
 This project is loosely based on the paper titled, "Benchmarking Active Learning Protocols for Ligand-Binding Affinity Prediction" by Gorantla et al.
 
+### **Data**
+Two publicly available binding affinity datasets are used in this project. The dataset used for training and testing the Gaussian Process and Chemprop models is a binding affinity dataset for the target Tyrosine Kinase 2 (TYK2). It comprises the SMILES representation of 9,997 ligands and their associated binding affinity in terms of their relative binding free energy (RBFE) values which have been converted to pKi values to quantify binding affinity. 
+
+The dataset used for pre-training the Chemprop model is a binding affinity dataset for a different target, Dopamine Receptor D2 (D2R). It contains SMILES of 2,502 different ligands and their associated binding affinity expressed in pKi.
+
 ## **Performance Evaluation**
 
 First Plot:
