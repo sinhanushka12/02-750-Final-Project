@@ -1,6 +1,6 @@
 # **Active Learning Approaches For Ligand Binding Affinity Prediction**
-## Final Project for the course Automation of Scientific Research
-## **Contributors:** Shweta Jones, Alex Kullman, Anushka Sinha, Aman Virmani
+### Final Project for the course Automation of Scientific Research
+### **Contributors:** Shweta Jones, Alex Kullman, Anushka Sinha, Aman Virmani
 
 ### **Project Overview**
 Active learning plays a crucial role in computational drug discovery by optimizing the identification of top binders for a given target protein.
