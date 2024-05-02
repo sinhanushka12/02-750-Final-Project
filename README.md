@@ -22,7 +22,9 @@ Complete details regarding the methods, implementation, results, and conclusions
 
 The table below provides the runtime, R-squared (R²) values, and Root-Mean Square Error (RMSE) values of all the different models with their respective query selection strategies and batch sizes. The direct comparison between these methods highlights the trade-off between runtime and higher accuracies to make better conclusions about which method is best for ligand binding prediction.
 
-<img width="490" alt="Screenshot 2024-05-02 at 12 58 04 PM" src="https://github.com/sinhanushka12/02-750-Final-Project/assets/66140791/9f77654e-b7e2-4c2b-a703-1af5b7a8513a">
 
+<div align="center">
+  <img width="490" alt="Screenshot 2024-05-02 at 12 58 04 PM" src="https://github.com/sinhanushka12/02-750-Final-Project/assets/66140791/9f77654e-b7e2-4c2b-a703-1af5b7a8513a">
+</div>
 
 The project performed a comprehensive analysis of different methods and strategies for predicting ligand binding affinity. It explored the relationship between query selection strategies and batch sizes and their impact on runtimes and accuracies. The study shows the need for strategically designed model training for identifying top binders, which potentially could save a significant amount of time and money in drug discovery pipelines.
