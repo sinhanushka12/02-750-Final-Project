@@ -1,4 +1,6 @@
-# **Final Project for the course Automation of Scientific Research**
+# **Active Learning Approaches For Ligand Binding Affinity Prediction**
+## **Contributors:** Shweta Jones, Alex Kullman, Anushka Sinha, Aman Virmani
+## **Final Project for the course Automation of Scientific Research**
 
 ## **Performance Evaluation**
 
