@@ -14,6 +14,8 @@ Two publicly available binding affinity datasets are used in this project. The d
 
 The dataset used for pre-training the Chemprop model is a binding affinity dataset for a different target, Dopamine Receptor D2 (D2R). It contains SMILES of 2,502 different ligands and their associated binding affinity expressed in pKi.
 
+They can be found here: https://github.com/meyresearch/ActiveLearning_BindingAffinity 
+
 ## **Performance Evaluation**
 
 First Plot:
