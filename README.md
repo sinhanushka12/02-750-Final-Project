@@ -1,6 +1,13 @@
 # **Active Learning Approaches For Ligand Binding Affinity Prediction**
+## Final Project for the course Automation of Scientific Research
 ## **Contributors:** Shweta Jones, Alex Kullman, Anushka Sinha, Aman Virmani
-## **Final Project for the course Automation of Scientific Research**
+
+### **Project Overview**
+Active learning plays a crucial role in computational drug discovery by optimizing the identification of top binders for a given target protein.
+
+The project intends to use active learning to balance exploration, which seeks novel chemical spaces, and exploitation, which maximizes the identification of potent compounds, to accurately predict ligand binding activity with increased efficiency. The two primary learning models used for this project are a Gaussian process model and the Chemprop deep learning model. Benchmarking active learning approaches can help to identify the best labeling methods for ligand binding affinity. Query selection strategies for the Gaussian process include Upper Confidence Bound (UCB), biased-UCB, Mean, and Variance, whereas the Chemprop model employs uncertainty sampling using Monte Carlo dropout. Both the models used random sampling as a baseline for comparison. The aims of this project are to understand the impact of batch size and uncertainty sampling on the accuracy of the models. Understanding the impact of batch size and sampling methods on the chosen models can help with future computational drug discovery studies. 
+
+This project is loosely based on the paper titled, "Benchmarking Active Learning Protocols for Ligand-Binding Affinity Prediction" by Gorantla et al.
 
 ## **Performance Evaluation**
 
